@@ -1,8 +1,9 @@
 # cicoil_v2
-#Automatizacion de generacion de pronostico para derrames de petroleo
+#Automatizacion de generación de pronóstico para derrames de petróleo
 
 #REQUERIMIENTOS
 
--Tener instalando el ambiente para opendrift/Tamoc
+-Tener instalando el ambiente para opendrift/Tamoc (CIC-Oil)
+
 -Los datos o link de descarga de datos de corrientes,vientos y oleaje
 
